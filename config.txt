@@ -1,0 +1,6 @@
+owner=
+prefix=+
+game=ﬂ‰ ﬂ„« √‰ .
+stayinchannel=true
+songinstatus=false
+token=NTgzMjQ0Nzg2MDczMzM3ODU2.XO5lzQ.aCAWWDgRIzedlHXH4NvjSCzDnV8
