@@ -1,6 +1,6 @@
-owner=534314527643140101
+owner=579808920873467904
 prefix=+
-game=بوت خاص
+game=-لحن.
 stayinchannel=true
 songinstatus=false
 token=NTgzMjUwMDMxNDMyNDMzNjY0.XO5oCw.ivue0e0J7UXKRrERqu_o91Oo-cI
