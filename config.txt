@@ -3,4 +3,4 @@ prefix=+
 game=بوت خاص
 stayinchannel=true
 songinstatus=false
-token=NTgzMjQ0Nzg2MDczMzM3ODU2.XO5nYg.dCoA5hjp8N64wl2rWEAYeIhvqww
+token=NTgzMjUwMDMxNDMyNDMzNjY0.XO5oCw.ivue0e0J7UXKRrERqu_o91Oo-cI
