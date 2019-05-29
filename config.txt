@@ -1,6 +1,6 @@
-owner=
+owner=534314527643140101
 prefix=+
-game=ßä ßãÇ ÃäÊ.
+game=Ø¨ÙˆØª Ø®Ø§Øµ
 stayinchannel=true
 songinstatus=false
-token=NTgzMjQ0Nzg2MDczMzM3ODU2.XO5lzQ.aCAWWDgRIzedlHXH4NvjSCzDnV8
+token=NTgzMjQ0Nzg2MDczMzM3ODU2.XO5nYg.dCoA5hjp8N64wl2rWEAYeIhvqww
