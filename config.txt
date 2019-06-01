@@ -1,6 +1,6 @@
-owner=579808920873467904
+owner=584295111144505348
 prefix=+
-game=-لحن.
+game=! HaroN 💛
 stayinchannel=true
 songinstatus=false
 token=NTgzMjUwMDMxNDMyNDMzNjY0.XO5oCw.ivue0e0J7UXKRrERqu_o91Oo-cI
